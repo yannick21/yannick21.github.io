@@ -251,8 +251,8 @@ header .navbar ul li a:hover {
   border-radius: 4em;
   transition: 0.5s;
   color: #fff;
-  background: rgba(150, 8, 8, 0.6);
-  box-shadow: 0px 5px 18px rgba(150, 8, 8, 0.6);
+  background: rgb(150, 8, 8);
+  box-shadow: 0px 5px 18px rgb(150, 8, 8);
   font-family: "Nunito", sans-serif;
 }
 .home .btn span {
