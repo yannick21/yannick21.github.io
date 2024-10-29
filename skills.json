@@ -10,5 +10,9 @@
     {
         "name": "Splunk Power User",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    }   
+    },
+    {
+        "name": "Red Teaming",
+        "icon": "https://github.com/yannick21/yaya.github.com/blob/main/assets/images/skills/redteaming.jpeg"
+    }     
 ]
