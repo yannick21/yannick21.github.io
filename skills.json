@@ -5,11 +5,11 @@
     },
     {
         "name": "Splunk Admin",
-        "icon": "assets/images/skills/certified-admin.png"
+        "icon": "assets/images/skills/splunk-enterprise-certified-admin.png"
     },
     {
         "name": "Splunk Power User",
-        "icon": "assets/images/skills/certified-power-user.png"
+        "icon": "assets/images/skills/splunk-core-certified-power-user.png"
     },
     {
         "name": "Red Teaming",
