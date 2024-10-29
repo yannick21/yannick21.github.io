@@ -10,9 +10,5 @@
     {
         "name": "Splunk Power User",
         "icon": "assets/images/skills/splunk-core-certified-power-user.png"
-    },
-    {
-        "name": "Red Teaming",
-        "icon": "assets/images/skills/THMlogo.png"
-    }       
+    }
 ]
