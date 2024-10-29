@@ -14,5 +14,9 @@
     {
         "name": "Red Teaming",
         "icon": "https://github.com/yannick21/yaya.github.com/blob/main/assets/images/skills/redteaming.jpeg"
-    }     
+    },
+    {
+        "name": "Red Teaming",
+        "icon": "https://github.com/yannick21/yaya.github.com/blob/main/assets/images/skills/splunk1.png"
+    }         
 ]
