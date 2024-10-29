@@ -1,22 +1,18 @@
 [
     {
         "name": "Security Analyst",
-        "icon": "https://github.com/yannick21/yaya.github.com/blob/main/assets/images/skills/cybersecurity-defense-analyst.png"
+        "icon": "assets/images/skills/cybersecurity-defense-analyst.png"
     },
     {
         "name": "Splunk Admin",
-        "icon": "https://github.com/yannick21/yaya.github.com/blob/main/assets/images/skills/certified-admin.png"
+        "icon": "assets/images/skills/certified-admin.png"
     },
     {
         "name": "Splunk Power User",
-        "icon": "https://github.com/yannick21/yaya.github.com/blob/main/assets/images/skills/certified-power-user.png"
+        "icon": "assets/images/skills/certified-power-user.png"
     },
     {
         "name": "Red Teaming",
-        "icon": "https://github.com/yannick21/yaya.github.com/blob/main/assets/images/skills/redteaming.jpeg"
-    },
-    {
-        "name": "Red Teaming",
-        "icon": "https://github.com/yannick21/yaya.github.com/blob/main/assets/images/skills/splunk1.png"
-    }         
+        "icon": "assets/images/skills/THMlogo.jpeg"
+    }       
 ]
