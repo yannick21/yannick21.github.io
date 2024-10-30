@@ -20,8 +20,8 @@
     }
   },
   {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
+    "name": "Splunk Enterprise Security (SIEM) deployment",
+    "desc": "Deployed SIEM for several companies, including banks and airports. ",
     "image": "notystackandroid",
     "category": "android",
     "links": {
