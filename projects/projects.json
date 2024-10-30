@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "PowerShell / CMD session tracking",
+    "name": "FIM - File Integrity Monitoring",
     "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
     "image": "notystackandroid",
     "category": "android",
