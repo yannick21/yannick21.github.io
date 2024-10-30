@@ -22,7 +22,7 @@
   {
     "name": "Splunk Enterprise Security (SIEM) deployment",
     "desc": "Deployed SIEM for several companies, including banks and airports. ",
-    "image": "splunk-enterprise-security-dashboard-hero",
+    "image": "splunk-es",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
