@@ -1,7 +1,7 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "PowerShell / CMD session tracking",
+    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on powershell (ab)use in their Critical servers: user, cmd, target machine, ...",
     "image": "notystackandroid",
     "category": "android",
     "links": {
