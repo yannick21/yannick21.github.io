@@ -30,8 +30,8 @@
     }
   },
  {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
+    "name": "RDP / SSH Access tracking",
+    "desc": "This Project helped the Customer have insight on SHH/RDP access on their critical servers: user, cmd, source & target machines, duration...",
     "image": "notystackandroid",
     "category": "android",
     "links": {
@@ -40,78 +40,8 @@
     }
   },
  {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
- {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
- {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
-  {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
- {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
-  {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
-  {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
- {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
+    "name": "Azure & O365 Activity Monitoring",
+    "desc": "",
     "image": "notystackandroid",
     "category": "android",
     "links": {
