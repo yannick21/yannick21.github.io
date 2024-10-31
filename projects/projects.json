@@ -3,7 +3,7 @@
     "name": "PowerShell / CMD session tracking",
     "desc": "A report from Red Canary said PowerShell is the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight into PowerShell (ab)use in their Environment",
     "image": "weatherlyandroid",
-    "category": "android",
+    "category": "SIEM",
     "links": {
       "view": "",
       "code": ""
@@ -13,7 +13,7 @@
     "name": "FIM - File Integrity Monitoring",
     "desc": "This project helped some financial companies that needed to track changes performed on critical folders/shares: who did what on which file/folder and when ?",
     "image": "weatherlyandroid",
-    "category": "android",
+    "category": "SIEM",
     "links": {
       "view": "",
       "code": ""
@@ -23,7 +23,7 @@
     "name": "Splunk Enterprise Security (SIEM) deployment",
     "desc": "Deployed SIEM (Splunk Enterprise Security) for several companies, including banks and airports",
     "image": "weatherlyandroid",
-    "category": "android",
+    "category": "SIEM",
     "links": {
       "view": "",
       "code": ""
@@ -33,7 +33,7 @@
     "name": "RDP / SSH Access tracking",
     "desc": "This Project helped the Customer have insight on SHH/RDP access on their critical servers: user, cmd, source & target machines, duration...",
     "image": "weatherlyandroid",
-    "category": "android",
+    "category": "SIEM",
     "links": {
       "view": "",
       "code": ""
@@ -43,7 +43,7 @@
     "name": "Azure & O365 Activity Monitoring",
     "desc": "",
     "image": "weatherlyandroid",
-    "category": "android",
+    "category": "SIEM",
     "links": {
       "view": "",
       "code": ""
