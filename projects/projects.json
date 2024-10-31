@@ -21,7 +21,7 @@
   },
   {
     "name": "Splunk Enterprise Security (SIEM) deployment",
-    "desc": "Deployed SIEM (Splunk Enterrpise Security) for several companies, including banks and airports, including Correlation rules tunning",
+    "desc": "Deployed SIEM (Splunk Enterprise Security) for several companies, including banks and airports",
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
