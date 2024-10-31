@@ -1,7 +1,7 @@
 [
   {
     "name": "PowerShell / CMD session tracking",
-    "desc": "According to Red Canary, PowerShell is the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell commandlines (ab)use in their Environment",
+    "desc": "A report from Red Canary said PowerShell is the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight into PowerShell (ab)use in their Environment",
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "FIM - File Integrity Monitoring",
-    "desc": "According to Red Canary, PowerShell is the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use in their Environment: user, cmd, machine, ...",
+    "desc": "This project helped some financial companies that needed to track changes performed on critical folders/shares: who did what on which file/folder and when ?",
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
