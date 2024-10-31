@@ -2,7 +2,7 @@
   {
     "name": "PowerShell / CMD session tracking",
     "desc": "According to Red Canary, PowerShell reclaimed its place as the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use on their critical servers: user, cmd, target machine, ...",
-    "image": "notystackandroid",
+    "image": "weatherlyandroid",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -12,7 +12,7 @@
   {
     "name": "FIM - File Integrity Monitoring",
     "desc": "According to Red Canary, PowerShell is the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight on PowerShell (ab)use in their Environment: user, cmd, machine, ...",
-    "image": "sppuprepandroid",
+    "image": "weatherlyandroid",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -42,7 +42,7 @@
  {
     "name": "Azure & O365 Activity Monitoring",
     "desc": "",
-    "image": "notystackandroid",
+    "image": "weatherlyandroid",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
