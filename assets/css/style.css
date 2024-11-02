@@ -474,7 +474,7 @@ header .navbar ul li a:hover {
   color: #fff;
   border-radius: 1rem;
   padding: 2rem;
-  width: 120%;
+  width: 100%;
   margin: auto;
   margin-top: 2rem;
 }
@@ -500,8 +500,8 @@ header .navbar ul li a:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 1rem;
-  margin-top: 1rem;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
 }
 .skills .container .bar .info i {
   font-size: 4rem;
