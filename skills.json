@@ -8,11 +8,12 @@
         "icon": "assets/images/skills/splunk-ca.png"
     },
     {
-        "name": "Splunk Power User",
-        "icon": "assets/images/skills/splunk-cpu.png"
-    },
-    {
         "name": "Red Teamer",
         "icon": "assets/images/skills/THM.png"
+    },
+    {
+        "name": "Splunk Power User",
+        "icon": "assets/images/skills/splunk-cpu.png"
     }
+    
 ]
