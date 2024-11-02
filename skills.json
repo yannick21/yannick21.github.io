@@ -1,18 +1,18 @@
 [
     {
         "name": "Security Analyst",
-        "icon": "assets/images/skills/splunk-certified-cybersecurity-defense-analyst.png"
+        "icon": "assets/images/skills/splunk-cda.png"
     },
     {
         "name": "Splunk Admin",
-        "icon": "assets/images/skills/splunk-enterprise-certified-admin.png"
+        "icon": "assets/images/skills/splunk-ca.png"
     },
     {
         "name": "Splunk Power User",
-        "icon": "assets/images/skills/splunk-core-certified-power-user.png"
+        "icon": "assets/images/skills/splunk-cu.png"
     },
     {
         "name": "Red Teamer",
-        "icon": "assets/images/THM.png"
+        "icon": "assets/images/skills/THM.png"
     }
 ]
