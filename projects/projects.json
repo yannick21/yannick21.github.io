@@ -11,7 +11,7 @@
   },
  {
     "name": "Azure & O365 Activity Monitoring",
-    "desc": "",
+    "desc": "ingested Azure and O365 logs into Splunk",
     "image": "weatherlyandroid",
     "category": "siem",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Splunk Enterprise Security (SIEM) deployment",
-    "desc": "Deployed SIEM (Splunk Enterprise Security) for several companies, including banks and airports",
+    "desc": "Deployed & Upgraded SIEM (Splunk Enterprise Security) for several companies, including banks and airports",
     "image": "weatherlyandroid",
     "category": "siem",
     "links": {
@@ -31,7 +31,7 @@
   },
  {
     "name": "RDP / SSH Access tracking",
-    "desc": "This Project helped the Customer have insight on SHH/RDP access on their critical servers: user, cmd, source & target machines, duration...",
+    "desc": "This Project helped the Customer have insight on SSH/RDP access on their critical servers: user, cmd, source & target machines, duration...",
     "image": "weatherlyandroid",
     "category": "siem",
     "links": {
