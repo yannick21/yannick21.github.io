@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["SIEM", "SOAR", "SOC", "Red Teaming", "Incident Response"],
+    strings: ["SIEM/SOAR/SOC", "Red Teaming", "Incident Response"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
