@@ -50,8 +50,8 @@
     }
   },
    {
-    "name": "PowerShell / CMD session tracking",
-    "desc": "A report from Red Canary said PowerShell is the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight into PowerShell (ab)use in their Environment",
+    "name": "Log Ingestion Optimization",
+    "desc": "Led a project to optimize log ingestion for a customer; reducing log consumption by 50%, significantly lowering costs, and preserving all critical and meaningful data.",
     "image": "weatherlyandroid",
     "category": "siem",
     "links": {
