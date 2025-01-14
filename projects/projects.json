@@ -51,7 +51,7 @@
   },
   {
     "name": "Log Ingestion Optimization",
-    "desc": "•	Led a project to optimize log ingestion for a customer; reducing log consumption by 50%, significantly lowering costs, and preserving all critical and meaningful data.",
+    "desc": "Led a project to optimize log ingestion for a customer; reducing log consumption by 50%, significantly lowering costs, and preserving all critical and meaningful data.",
     "image": "weatherlyandroid",
     "category": "siem",
     "links": {
