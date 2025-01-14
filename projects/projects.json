@@ -48,5 +48,15 @@
       "view": "",
       "code": ""
     }
+  },
+   {
+    "name": "PowerShell / CMD session tracking",
+    "desc": "A report from Red Canary said PowerShell is the most prevalent Mitre Attack technique (T1059.001). This Project helped the Customer have insight into PowerShell (ab)use in their Environment",
+    "image": "weatherlyandroid",
+    "category": "siem",
+    "links": {
+      "view": "",
+      "code": ""
+    }
   }
 ]
