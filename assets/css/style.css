@@ -479,9 +479,8 @@ header .navbar ul li a:hover {
   margin-top: 2rem;
 }
 .skills .container .row {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
   gap: 1rem;
 }
 .skills .container .bar {
