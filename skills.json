@@ -1,6 +1,6 @@
 [
     {
-        "name": "Red Teamer",
+        "name": "Red Teaming",
         "icon": "assets/images/skills/CRTP_certificate.PNG"
     },
     {
@@ -8,7 +8,7 @@
         "icon": "assets/images/skills/VEEAM_certificate.jpg"
     }, 
     {
-        "name": "Splunk Admin",
+        "name": "SIEM",
         "icon": "assets/images/skills/SPLUNK_admin.PNG"
     }
     
