@@ -1,11 +1,7 @@
 [
     {
-        "name": "Security Analyst",
-        "icon": "assets/images/skills/splunk-cda.png"
-    },
-    {
         "name": "Splunk Admin",
-        "icon": "assets/images/skills/splunk-ca.png"
+        "icon": "assets/images/skills/SPLUNK_admin.PNG"
     },
     {
         "name": "Red Teamer",
