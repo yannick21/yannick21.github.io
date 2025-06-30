@@ -1,15 +1,15 @@
 [
     {
-        "name": "Splunk Admin",
-        "icon": "assets/images/skills/SPLUNK_admin.PNG"
-    },
-    {
         "name": "Red Teamer",
         "icon": "assets/images/skills/CRTP_certificate.PNG"
     },
     {
         "name": "Backup & Replication",
         "icon": "assets/images/skills/VEEAM_certificate.jpg"
+    }, 
+    {
+        "name": "Splunk Admin",
+        "icon": "assets/images/skills/SPLUNK_admin.PNG"
     }
     
 ]
